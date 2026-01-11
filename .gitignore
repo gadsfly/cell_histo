@@ -1,0 +1,17 @@
+*.json
+*.csv
+*.png
+**/useless/**
+*.xlsx
+*.xlsx#
+*.svg
+*.code-workspace
+*.tiff
+*.tif
+*.bwp
+*.bws
+*.pyc
+__pycache__/
+*.jpg
+*.zip
+*.lif
